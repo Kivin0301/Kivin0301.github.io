@@ -18,23 +18,26 @@ html {
 }
 
 body {
-	background: 0000ff;
-  font: 18px/1.4 $helvetica;
+	background-image: ("https://i.ytimg.com/vi/lt0WQ8JzLz4/maxresdefault.jpg");
+	backround-repeat: no-repeat;
+        backround-position: left rop;
+  font: 15px arial;
   color: #00ff00;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 850px;
   padding: 0 10px;
   width: 100%;
-  }
 }
 
+
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: helvetica;
   color: $ff0000;
   font-weight: bold;
+backround:rgba(43, 35, 60, 9.3)
 
   line-height: 1.7;
   margin: 1em 0 15px;
