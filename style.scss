@@ -19,6 +19,10 @@ html {
 
 body {
   background-image: url("https://i.pinimg.com/originals/e1/a7/b4/e1a7b4cc81805cf51dd220345f70f31a.jpg ");
+ background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+	 
   font: 18px $helvetica ;
   color: #ff6666;
 }
